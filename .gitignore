@@ -1,0 +1,10 @@
+node_modules
+.env
+dist
+build
+memory/
+profile/
+uploads/
+xx
+
+
